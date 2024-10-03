@@ -2,7 +2,7 @@
 
  ## Project Overview
  
-The project presents an analysis of Video Games Sales for 2020 year. The data contains more than 64,000 games, including games from 1990 to mid-2020. The analysis examined how features such as the game's release date, platform type and genre affect total sales.
+The project presents an analysis of Video Games Sales to 2020 year. The data contains more than 64,000 games, including games from 1990 to mid-2020. The analysis examined how features such as the game's release date, platform type and genre affect total sales.
 
 ## Technologies Used
 
@@ -12,10 +12,20 @@ The project presents an analysis of Video Games Sales for 2020 year. The data co
 - Data Visualisation: data modeling, creating measures and designing the dashboard visualizations.
   
 
-![image](https://github.com/user-attachments/assets/a81d138c-0325-4cbb-8ba8-fa4d7c8731f4)
+![image](https://github.com/user-attachments/assets/2f6c8351-15dd-42cf-a4c8-0c7e8a1caa68)
+
 
 ## Insights and Conclusions
 
+- Sports games are the most popular, which is understandable given how many different editions of FIFA have been created, and that tournaments from these games have a cult following.
+
+- The most profitable console remains invariably the PS2, which for a long time was unrivaled. Data shows that next-generation consoles have not beaten their sales results, however, a large amount of data of games produced after 2018 does not include sales results, as can be seen in the charts.
+
+- The biggest consumers of games are customers from Europe and North America
+
+- Najbardziej dochodowymi pozostaja gry z serii Call of Duty oraz Grand Theft Auto V, czyli gry, ktore zostaly wydane miedzy latami 2008 a 2013.
+
+However
 
 ## Data Source
     
