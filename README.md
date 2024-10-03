@@ -25,7 +25,6 @@ The project presents an analysis of Video Games Sales to 2020 year. The data con
 
 - The most profitable remain the Call of Duty series and Grand Theft Auto V, games that were released between 2008 and 2013.
 
-However
 
 ## Data Source
     
