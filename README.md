@@ -23,7 +23,7 @@ The project presents an analysis of Video Games Sales to 2020 year. The data con
 
 - The biggest consumers of games are customers from Europe and North America
 
-- Najbardziej dochodowymi pozostaja gry z serii Call of Duty oraz Grand Theft Auto V, czyli gry, ktore zostaly wydane miedzy latami 2008 a 2013.
+- The most profitable remain the Call of Duty series and Grand Theft Auto V, games that were released between 2008 and 2013.
 
 However
 
