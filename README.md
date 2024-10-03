@@ -2,7 +2,7 @@
 
  ## Project Overview
  
-The project presents an analysis of Video Games Sales for 2020 year. 
+The project presents an analysis of Video Games Sales for 2020 year. The data contains more than 64,000 games, including games from 1990 to mid-2020. The analysis examined how features such as the game's release date, platform type and genre affect total sales.
 
 ## Technologies Used
 
