@@ -21,7 +21,7 @@ The project presents an analysis of Video Games Sales to 2020 year. The data con
 
 - The most profitable console remains invariably the PS2, which for a long time was unrivaled. Data shows that next-generation consoles have not beaten their sales results, however, a large amount of data of games produced after 2018 does not include sales results, as can be seen in the charts.
 
-- The biggest consumers of games are customers from Europe and North America
+- The biggest consumers of games are customers from Europe and North America.
 
 - The most profitable remain the Call of Duty series and Grand Theft Auto V, games that were released between 2008 and 2013.
 
